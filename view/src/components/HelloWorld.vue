@@ -6,6 +6,9 @@
   <div class="word">
     世界黑屏
   </div>
+  <div>
+    小球飞入
+  </div>
 </div>
 </template>
 
